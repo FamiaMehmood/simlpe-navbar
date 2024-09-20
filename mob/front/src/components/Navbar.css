@@ -1,0 +1,24 @@
+.navbar-brand{
+    color: deeppink;
+    background-color: cornflowerblue;}
+.navbar-brand{
+    font-size: 40px;
+}
+.navbar-nav{
+    border: 7px solid black;
+    border-radius: 3px;
+    padding: 4px 3px;
+} 
+.nav-items{
+font-size: 140px;
+    padding-right: 15px;
+}
+.nav-btn{
+    background-color: darkorchid;
+    border-radius: 10px;
+    padding: 14px 14px;
+}
+.navbar{
+    background-color: rgb(39, 205, 247);
+    color: rgb(120, 4, 228);
+}
